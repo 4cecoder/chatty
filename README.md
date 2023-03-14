@@ -6,9 +6,9 @@
 
 `cd chatty`
 
-### build client on your machine 
+### build client ON YOUR local computer
 `cd cmd/client/ && go build`
 
-### build the server
+### FOR THE SERVER: build the server
 
 `cd cmd/client/ && go build`
