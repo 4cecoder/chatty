@@ -11,4 +11,4 @@
 
 ### FOR THE SERVER: build the server
 
-`cd cmd/client/ && go build`
+`cd cmd/server/ && go build`
